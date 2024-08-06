@@ -26,9 +26,9 @@
       rgba(0, 81, 255, 0.3),
       rgba(0, 255, 234, 0.3)
     ),
-    url("../img/login-bg.jpg") no-repeat center center fixed; */
+    url("../img/background.png") no-repeat center center fixed; */
   background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.233)),
-    url("../img/login-bg.jpg") no-repeat center center fixed;
+    url("../img/background.png") no-repeat center center fixed;
   backdrop-filter: blur(12px);
   background-size: cover;
   height: 100%;

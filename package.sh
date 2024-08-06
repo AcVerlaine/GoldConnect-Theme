@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the folder path
-folder_path="themes/custom-theme"
+folder_path="themes/GoldConnect"
 providers_dir="providers"
 
 # Check if the folder exists
@@ -19,7 +19,7 @@ fi
 read -p "Enter the theme name (default: custom-theme): " jar_name
 
 # Use the default name if no input provided
-jar_name=${jar_name:-custom-theme}
+jar_name=${jar_name:-GoldConnect-Theme}
 
 # Add the .jar extension if not already present
 if [[ $jar_name != *".jar" ]]; then

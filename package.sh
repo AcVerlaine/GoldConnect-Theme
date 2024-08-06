@@ -16,7 +16,7 @@ if [ ! -d "$providers_dir" ]; then
 fi
 
 # Prompt for the JAR file name or use a default name
-read -p "Enter the theme name (default: custom-theme): " jar_name
+read -p "Enter the theme name (default: GoldConnect-Theme): " jar_name
 
 # Use the default name if no input provided
 jar_name=${jar_name:-GoldConnect-Theme}

@@ -1,3 +1,5 @@
+# PROJECT ARCHIVED FOR EVER.
+
 # Keycloak Theme Customization
 
 ![Screenshot](docs/screenshot-1.png)
